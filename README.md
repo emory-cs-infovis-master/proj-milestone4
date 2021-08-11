@@ -12,3 +12,11 @@ Your update should be no more than 250-500 words and include the following items
 
 ### Note:
 If you did not receive full credit for your design document, particularly the project realization, this is an opportunity to show that you have responded to the comments during the poster session.
+
+## Grading: 
+- [10%] Screenshots of the current interface status
+- [15%] Description of changes to the previous proposed approach
+- [20%] Description of implementation (libraries, etc)
+- [10%] Description of current schedule 
+- [25%] Current challenges
+- [20%] Current code
